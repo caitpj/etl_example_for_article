@@ -1,0 +1,1039 @@
+item_name,stock,sold,revenue
+Wheelbarrow,10,2,60
+Garden Gloves,35,10,unknown
+Pruning Shears,25,15,40
+Watering Can,15,8,30
+Trowel,20,5,25
+Plant Fertilizer,50,20,100
+Garden Hose,8,30,75
+Rake,12,18,45
+Soil pH Tester,30,12,unknown
+Grass Seed,40,15,50
+Weed Killer Spray,18,22,35
+Plant Pots,100,3,200
+Compost Bin,5,45,120
+Lawn Mower,3,150,500
+Bird Feeder,20,25,unknown
+Insect Repellent,30,8,20
+Garden Kneeler,10,20,55
+Hedge Trimmer,6,40,90
+Leaf Blower,4,70,150
+Garden Spade,15,25,60
+Tomato Cage,50,8,30
+Sprinkler System,2,100,unknown
+Foldable Leaf Blower - YardKing,97,33,unknown
+Compact Shovel - GreenThumb,136,123,38.45
+Eco-friendly Gloves - LeafLover,56,20,unknown
+Compact Lawn Mower - PlantPal,84,67,92.62
+Compact Watering Can - LeafLover,73,2,unknown
+Heavy-duty Seeds - GrowWell,104,97,8.07
+Large Lawn Mower - GreenThumb,1,0,unknown
+Large Planter - GreenThumb,91,56,unknown
+Large Fertilizer - GreenThumb,107,8,unknown
+Foldable Hedge Trimmer - GrowWell,138,126,unknown
+Basic Pruner - GardenPro,72,60,unknown
+Basic Mulch - BloomMaster,56,20,13.59
+Premium Gloves - EarthMate,191,63,unknown
+Foldable Pruner - LeafLover,81,80,unknown
+Premium Rake - LeafLover,192,131,13.82
+Small Fertilizer - GreenThumb,148,28,unknown
+Deluxe Rake - GardenPro,164,123,unknown
+Heavy-duty Tool Set - EcoGrow,197,169,49.13
+Heavy-duty Lawn Mower - GrowWell,167,27,unknown
+Small Tool Set - GreenThumb,118,31,85.54
+Small Hedge Trimmer - GardenPro,176,27,unknown
+Compact Fertilizer - GreenThumb,58,24,83.14
+Large Soil - GreenThumb,131,18,49.72
+Lightweight Mulch - YardKing,170,66,unknown
+Eco-friendly Lawn Mower - NatureCare,182,56,unknown
+Small Hose - NatureCare,39,25,unknown
+Small Wheelbarrow - EcoGrow,186,175,6.05
+Large Watering Can - EarthMate,38,25,12.83
+Heavy-duty Hose - LeafLover,101,13,unknown
+Deluxe Watering Can - YardKing,54,24,62.81
+Eco-friendly Sprayer - GrowWell,160,73,unknown
+Deluxe Sprinkler - EcoGrow,192,90,unknown
+Large Rake - LeafLover,83,46,70.65
+Foldable Seeds - LeafLover,55,34,70.11
+Compact Pot - LeafLover,50,16,unknown
+Basic Seeds - PlantPal,12,7,20.35
+Lightweight Wheelbarrow - YardKing,182,43,87.97
+Premium Wheelbarrow - GreenThumb,192,135,15.9
+Lightweight Soil - LeafLover,130,70,50.09
+Premium Shovel - YardKing,186,63,46.12
+Deluxe Rake - PlantPal,56,13,unknown
+Deluxe Rake - EcoGrow,124,1,83.37
+Lightweight Rake - LeafLover,9,3,unknown
+Heavy-duty Mulch - GrowWell,176,8,unknown
+Lightweight Sprayer - GrowWell,103,15,unknown
+Compact Trowel - GardenPro,72,32,84.67
+Eco-friendly Shovel - EarthMate,81,65,88.35
+Deluxe Gloves - GreenThumb,90,62,54.39
+Foldable Hose - EcoGrow,13,6,30.48
+Foldable Sprinkler - NatureCare,36,29,33.9
+Basic Watering Can - GreenThumb,75,57,25.71
+Compact Tool Set - LeafLover,139,55,unknown
+Deluxe Sprayer - PlantPal,76,57,unknown
+Premium Pot - EarthMate,139,65,unknown
+Compact Shovel - EarthMate,47,42,unknown
+Premium Trowel - EarthMate,129,29,45.24
+Basic Seeds - EcoGrow,58,42,68.68
+Heavy-duty Soil - BloomMaster,119,7,19.58
+Foldable Hose - YardKing,130,75,unknown
+Basic Rake - EcoGrow,83,60,6.92
+Deluxe Rake - BloomMaster,126,101,unknown
+Premium Fertilizer - GreenThumb,132,66,73.51
+Lightweight Shovel - EcoGrow,83,10,83.09
+Lightweight Pot - GardenPro,176,20,unknown
+Heavy-duty Trowel - GrowWell,163,127,59.64
+Premium Seeds - EarthMate,1,0,unknown
+Foldable Pruner - BloomMaster,167,13,70.66
+Large Fertilizer - GrowWell,124,54,unknown
+Large Wheelbarrow - EcoGrow,51,29,97.49
+Foldable Mulch - EcoGrow,186,63,unknown
+Premium Trowel - GardenPro,100,78,70.16
+Heavy-duty Hedge Trimmer - PlantPal,121,95,6.28
+Large Mulch - NatureCare,192,46,43.62
+Premium Sprinkler - EarthMate,84,36,unknown
+Lightweight Trowel - LeafLover,181,65,unknown
+Deluxe Sprayer - YardKing,179,103,unknown
+Large Fertilizer - EcoGrow,50,19,36.15
+Foldable Leaf Blower - EcoGrow,164,12,38.34
+Basic Soil - PlantPal,80,56,unknown
+Large Lawn Mower - EcoGrow,152,141,unknown
+Small Watering Can - BloomMaster,70,30,54.97
+Heavy-duty Pruner - GardenPro,200,7,unknown
+Deluxe Lawn Mower - PlantPal,57,48,93.0
+Compact Leaf Blower - EarthMate,141,88,25.29
+Small Planter - GardenPro,110,56,unknown
+Basic Wheelbarrow - YardKing,39,6,21.83
+Deluxe Pot - EarthMate,25,3,80.07
+Foldable Pot - GrowWell,148,128,unknown
+Lightweight Soil - GardenPro,46,8,unknown
+Small Sprayer - LeafLover,32,15,unknown
+Basic Gloves - GrowWell,97,43,35.67
+Foldable Pot - BloomMaster,35,4,unknown
+Foldable Sprayer - GreenThumb,136,31,unknown
+Heavy-duty Wheelbarrow - NatureCare,82,40,unknown
+Large Sprinkler - LeafLover,135,130,unknown
+Lightweight Watering Can - PlantPal,188,66,96.72
+Large Sprinkler - LeafLover,27,24,unknown
+Deluxe Planter - GreenThumb,80,63,12.06
+Foldable Planter - NatureCare,121,82,unknown
+Foldable Wheelbarrow - EarthMate,59,40,50.45
+Foldable Lawn Mower - EcoGrow,151,13,unknown
+Deluxe Tool Set - PlantPal,46,30,63.8
+Foldable Gloves - BloomMaster,25,11,unknown
+Foldable Hose - BloomMaster,154,9,unknown
+Eco-friendly Trowel - YardKing,55,3,unknown
+Heavy-duty Tool Set - PlantPal,6,5,72.17
+Premium Soil - GrowWell,65,26,unknown
+Premium Fertilizer - LeafLover,74,40,35.1
+Large Rake - LeafLover,193,137,unknown
+Lightweight Wheelbarrow - GrowWell,43,21,unknown
+Heavy-duty Rake - EarthMate,105,51,96.28
+Deluxe Fertilizer - EarthMate,145,87,98.78
+Lightweight Lawn Mower - YardKing,141,21,93.19
+Eco-friendly Lawn Mower - NatureCare,169,25,unknown
+Large Tool Set - GrowWell,141,102,36.79
+Small Fertilizer - GreenThumb,139,49,unknown
+Lightweight Sprinkler - NatureCare,157,122,unknown
+Foldable Sprinkler - GrowWell,189,149,unknown
+Heavy-duty Trowel - GreenThumb,139,124,unknown
+Foldable Sprayer - NatureCare,48,18,77.66
+Small Trowel - GreenThumb,18,0,unknown
+Foldable Trowel - BloomMaster,200,37,84.89
+Premium Pruner - EarthMate,35,27,17.95
+Basic Seeds - GardenPro,183,158,unknown
+Basic Seeds - YardKing,38,9,61.74
+Small Watering Can - BloomMaster,111,38,99.76
+Large Lawn Mower - BloomMaster,194,80,unknown
+Foldable Lawn Mower - GrowWell,135,104,13.57
+Foldable Sprayer - GrowWell,172,94,75.05
+Large Sprinkler - NatureCare,67,17,58.03
+Foldable Leaf Blower - GrowWell,174,126,66.99
+Eco-friendly Wheelbarrow - EarthMate,14,9,unknown
+Large Gloves - BloomMaster,21,14,90.55
+Foldable Trowel - BloomMaster,15,2,unknown
+Large Sprinkler - BloomMaster,45,4,71.41
+Compact Sprinkler - GreenThumb,194,66,unknown
+Basic Trowel - LeafLover,48,4,92.72
+Compact Hedge Trimmer - EcoGrow,17,2,unknown
+Heavy-duty Pot - YardKing,88,42,67.09
+Foldable Pruner - PlantPal,154,62,89.21
+Premium Soil - LeafLover,12,10,79.41
+Eco-friendly Sprinkler - EarthMate,89,52,unknown
+Small Trowel - GrowWell,48,29,81.05
+Eco-friendly Gloves - GreenThumb,172,52,unknown
+Compact Tool Set - EcoGrow,169,135,unknown
+Large Wheelbarrow - GardenPro,159,84,94.56
+Basic Soil - GrowWell,55,5,15.04
+Eco-friendly Gloves - LeafLover,74,34,unknown
+Foldable Watering Can - GrowWell,1,0,unknown
+Large Tool Set - NatureCare,90,53,17.57
+Heavy-duty Trowel - GreenThumb,150,95,81.98
+Eco-friendly Watering Can - EcoGrow,161,92,unknown
+Lightweight Hedge Trimmer - BloomMaster,82,58,6.22
+Lightweight Soil - BloomMaster,133,113,unknown
+Eco-friendly Trowel - GreenThumb,92,83,28.69
+Foldable Gloves - GardenPro,152,96,unknown
+Basic Pruner - GreenThumb,17,4,unknown
+Basic Planter - BloomMaster,184,101,unknown
+Large Rake - GreenThumb,104,64,67.01
+Basic Tool Set - EarthMate,79,44,unknown
+Large Watering Can - LeafLover,41,37,unknown
+Premium Watering Can - GardenPro,97,60,92.12
+Foldable Sprayer - LeafLover,90,21,96.13
+Heavy-duty Gloves - PlantPal,162,8,unknown
+Basic Sprayer - GardenPro,9,4,unknown
+Heavy-duty Leaf Blower - PlantPal,15,7,unknown
+Foldable Pot - YardKing,2,0,8.43
+Compact Sprayer - NatureCare,34,0,unknown
+Deluxe Fertilizer - EarthMate,146,78,55.42
+Foldable Hedge Trimmer - GrowWell,145,15,2.14
+Basic Hedge Trimmer - GreenThumb,141,125,unknown
+Large Rake - NatureCare,8,2,unknown
+Large Seeds - EarthMate,171,69,unknown
+Compact Gloves - EarthMate,23,21,unknown
+Large Leaf Blower - LeafLover,169,19,19.84
+Compact Pot - LeafLover,92,4,0.55
+Lightweight Hedge Trimmer - LeafLover,187,48,23.19
+Eco-friendly Hedge Trimmer - GreenThumb,161,67,92.55
+Premium Wheelbarrow - EcoGrow,141,91,7.0
+Basic Gloves - GardenPro,82,41,19.56
+Small Gloves - BloomMaster,184,102,unknown
+Deluxe Fertilizer - EarthMate,48,34,unknown
+Basic Hose - EcoGrow,94,44,unknown
+Foldable Rake - BloomMaster,91,30,unknown
+Large Leaf Blower - EarthMate,48,38,85.08
+Eco-friendly Trowel - LeafLover,175,23,unknown
+Compact Hedge Trimmer - EarthMate,36,30,unknown
+Small Leaf Blower - NatureCare,40,10,14.48
+Premium Hedge Trimmer - GardenPro,171,48,unknown
+Lightweight Tool Set - NatureCare,130,89,unknown
+Compact Rake - YardKing,76,30,48.83
+Foldable Soil - NatureCare,6,2,unknown
+Compact Soil - NatureCare,90,57,unknown
+Heavy-duty Planter - GrowWell,123,20,unknown
+Heavy-duty Sprinkler - YardKing,159,76,unknown
+Premium Leaf Blower - EarthMate,20,4,90.77
+Foldable Leaf Blower - BloomMaster,82,20,unknown
+Premium Pot - GardenPro,152,59,unknown
+Deluxe Seeds - LeafLover,170,30,43.63
+Compact Soil - PlantPal,29,27,unknown
+Basic Wheelbarrow - LeafLover,98,74,unknown
+Premium Sprinkler - PlantPal,64,35,33.32
+Premium Leaf Blower - YardKing,142,15,28.95
+Deluxe Wheelbarrow - BloomMaster,33,22,unknown
+Deluxe Shovel - GreenThumb,79,7,unknown
+Deluxe Lawn Mower - GrowWell,18,7,0.3
+Basic Seeds - BloomMaster,31,18,unknown
+Deluxe Mulch - GreenThumb,147,0,unknown
+Large Hose - GrowWell,120,84,24.51
+Basic Planter - GreenThumb,61,57,58.68
+Eco-friendly Gloves - GardenPro,86,36,unknown
+Eco-friendly Fertilizer - LeafLover,96,60,27.27
+Compact Tool Set - GreenThumb,185,124,unknown
+Premium Pot - EarthMate,138,50,unknown
+Foldable Sprayer - LeafLover,72,38,14.4
+Large Hedge Trimmer - LeafLover,44,34,unknown
+Premium Pot - NatureCare,144,80,61.14
+Foldable Watering Can - EcoGrow,31,11,unknown
+Compact Rake - YardKing,168,9,83.75
+Small Seeds - EcoGrow,57,43,unknown
+Foldable Seeds - BloomMaster,187,96,unknown
+Compact Pruner - BloomMaster,47,28,98.97
+Lightweight Leaf Blower - BloomMaster,185,146,99.75
+Compact Tool Set - EarthMate,105,70,3.83
+Lightweight Watering Can - GrowWell,29,25,99.75
+Basic Trowel - GreenThumb,145,95,unknown
+Eco-friendly Lawn Mower - GreenThumb,100,97,31.0
+Heavy-duty Sprinkler - EarthMate,118,33,unknown
+Deluxe Rake - GreenThumb,2,0,unknown
+Foldable Pruner - GrowWell,150,75,52.24
+Basic Pruner - LeafLover,178,6,unknown
+Small Watering Can - GreenThumb,43,19,unknown
+Basic Hedge Trimmer - GardenPro,129,115,unknown
+Foldable Tool Set - YardKing,63,20,unknown
+Foldable Watering Can - LeafLover,138,17,unknown
+Premium Shovel - GreenThumb,82,23,6.25
+Eco-friendly Lawn Mower - GreenThumb,117,94,20.75
+Deluxe Tool Set - PlantPal,127,30,unknown
+Premium Gloves - GreenThumb,24,4,11.39
+Lightweight Leaf Blower - NatureCare,143,2,46.75
+Foldable Sprayer - GreenThumb,15,3,72.31
+Compact Wheelbarrow - NatureCare,64,31,20.78
+Basic Tool Set - LeafLover,23,0,unknown
+Small Seeds - EcoGrow,47,41,21.89
+Basic Rake - PlantPal,7,3,unknown
+Compact Gloves - EarthMate,156,102,unknown
+Compact Wheelbarrow - GrowWell,36,11,75.97
+Deluxe Shovel - BloomMaster,160,152,unknown
+Deluxe Seeds - EarthMate,55,8,unknown
+Premium Rake - EcoGrow,2,0,unknown
+Basic Pruner - LeafLover,140,9,unknown
+Foldable Shovel - NatureCare,157,106,unknown
+Heavy-duty Sprayer - BloomMaster,19,14,unknown
+Deluxe Hose - EcoGrow,72,19,unknown
+Small Tool Set - GrowWell,148,97,36.48
+Small Soil - BloomMaster,68,34,45.67
+Heavy-duty Gloves - BloomMaster,9,3,60.35
+Eco-friendly Trowel - NatureCare,85,56,82.49
+Small Fertilizer - YardKing,131,115,9.53
+Large Seeds - GrowWell,142,103,84.96
+Premium Hose - GardenPro,124,77,unknown
+Eco-friendly Gloves - NatureCare,192,119,46.36
+Basic Soil - GardenPro,72,3,unknown
+Foldable Shovel - NatureCare,63,38,56.3
+Large Pot - GreenThumb,26,8,96.14
+Foldable Planter - GreenThumb,180,148,unknown
+Deluxe Hose - EcoGrow,153,39,unknown
+Deluxe Trowel - GrowWell,64,36,84.24
+Deluxe Fertilizer - PlantPal,86,56,unknown
+Foldable Hedge Trimmer - PlantPal,99,83,88.82
+Foldable Leaf Blower - BloomMaster,117,89,unknown
+Foldable Seeds - GardenPro,169,127,unknown
+Small Lawn Mower - GardenPro,99,94,92.44
+Premium Hose - EarthMate,26,8,unknown
+Lightweight Hose - PlantPal,145,126,unknown
+Premium Rake - GardenPro,123,45,47.47
+Large Mulch - GrowWell,115,106,69.64
+Lightweight Gloves - PlantPal,45,5,unknown
+Deluxe Pruner - GreenThumb,70,30,21.91
+Foldable Tool Set - GardenPro,155,101,unknown
+Basic Trowel - GreenThumb,189,64,unknown
+Deluxe Tool Set - GardenPro,148,107,unknown
+Compact Leaf Blower - GrowWell,163,78,44.85
+Premium Pruner - EcoGrow,94,89,39.6
+Heavy-duty Watering Can - BloomMaster,139,27,unknown
+Deluxe Mulch - LeafLover,92,24,83.25
+Basic Soil - PlantPal,4,0,76.85
+Deluxe Rake - EarthMate,15,2,73.96
+Foldable Leaf Blower - EarthMate,89,47,unknown
+Deluxe Leaf Blower - EcoGrow,17,16,62.45
+Foldable Tool Set - NatureCare,89,62,unknown
+Premium Gloves - PlantPal,7,4,86.85
+Small Soil - PlantPal,31,18,28.79
+Eco-friendly Planter - YardKing,122,50,unknown
+Heavy-duty Gloves - EcoGrow,197,41,unknown
+Heavy-duty Seeds - NatureCare,51,15,46.26
+Large Lawn Mower - NatureCare,20,17,31.52
+Foldable Leaf Blower - YardKing,98,27,8.51
+Large Planter - GreenThumb,191,87,unknown
+Premium Pruner - NatureCare,119,44,9.62
+Deluxe Watering Can - GrowWell,130,60,unknown
+Eco-friendly Gloves - GrowWell,15,12,unknown
+Premium Trowel - PlantPal,92,2,unknown
+Lightweight Mulch - GrowWell,76,22,unknown
+Large Hedge Trimmer - LeafLover,19,2,unknown
+Premium Tool Set - GreenThumb,157,10,30.92
+Lightweight Shovel - GrowWell,157,109,unknown
+Premium Sprinkler - LeafLover,107,14,unknown
+Basic Rake - NatureCare,108,3,unknown
+Compact Fertilizer - GreenThumb,132,110,48.02
+Eco-friendly Sprinkler - GrowWell,85,13,unknown
+Foldable Wheelbarrow - GardenPro,95,29,72.84
+Large Planter - NatureCare,122,69,unknown
+Lightweight Trowel - GardenPro,19,11,unknown
+Premium Trowel - BloomMaster,119,82,unknown
+Deluxe Gloves - NatureCare,66,11,unknown
+Compact Planter - LeafLover,157,75,53.23
+Small Wheelbarrow - LeafLover,160,137,91.08
+Premium Tool Set - EcoGrow,63,45,48.79
+Premium Gloves - EarthMate,76,74,unknown
+Foldable Wheelbarrow - NatureCare,175,137,43.9
+Basic Mulch - GardenPro,109,96,unknown
+Lightweight Seeds - EarthMate,98,51,unknown
+Premium Lawn Mower - EarthMate,18,16,81.83
+Small Hose - LeafLover,138,121,44.97
+Lightweight Soil - LeafLover,127,123,unknown
+Compact Pot - GrowWell,20,16,unknown
+Large Gloves - NatureCare,31,22,unknown
+Small Pruner - GrowWell,110,70,0.21
+Heavy-duty Seeds - GardenPro,148,21,80.32
+Premium Soil - GrowWell,88,59,20.43
+Small Seeds - GardenPro,110,9,45.27
+Large Hose - BloomMaster,134,42,63.5
+Compact Seeds - YardKing,190,124,45.85
+Heavy-duty Lawn Mower - NatureCare,24,7,32.43
+Large Sprinkler - EarthMate,38,17,unknown
+Large Shovel - YardKing,17,14,unknown
+Premium Seeds - GrowWell,149,9,unknown
+Foldable Sprayer - LeafLover,119,34,83.24
+Lightweight Gloves - YardKing,105,101,37.58
+Deluxe Fertilizer - GardenPro,194,103,unknown
+Basic Wheelbarrow - LeafLover,117,105,40.12
+Heavy-duty Hedge Trimmer - YardKing,169,39,unknown
+Premium Sprayer - NatureCare,90,37,8.69
+Eco-friendly Leaf Blower - PlantPal,118,31,unknown
+Small Sprayer - GreenThumb,30,16,unknown
+Compact Trowel - PlantPal,114,5,35.87
+Lightweight Trowel - BloomMaster,14,2,unknown
+Small Seeds - PlantPal,136,59,90.1
+Foldable Sprinkler - NatureCare,44,13,unknown
+Premium Soil - YardKing,52,35,75.27
+Compact Seeds - GardenPro,157,103,unknown
+Deluxe Sprayer - EarthMate,156,155,22.3
+Heavy-duty Lawn Mower - PlantPal,66,37,5.08
+Premium Shovel - EcoGrow,127,21,11.53
+Deluxe Tool Set - NatureCare,88,7,unknown
+Deluxe Pruner - EarthMate,17,5,50.86
+Basic Planter - LeafLover,137,25,66.8
+Large Mulch - LeafLover,165,24,61.21
+Eco-friendly Wheelbarrow - EcoGrow,47,37,82.97
+Eco-friendly Planter - GardenPro,116,52,42.38
+Compact Soil - YardKing,66,49,14.35
+Deluxe Rake - LeafLover,24,7,unknown
+Heavy-duty Hose - YardKing,66,32,unknown
+Basic Planter - LeafLover,8,1,86.18
+Foldable Sprinkler - YardKing,6,2,65.44
+Premium Seeds - BloomMaster,149,47,unknown
+Premium Soil - GrowWell,69,66,unknown
+Compact Mulch - EcoGrow,169,117,unknown
+Small Rake - NatureCare,186,53,unknown
+Deluxe Sprinkler - YardKing,2,1,unknown
+Heavy-duty Lawn Mower - EcoGrow,176,22,31.08
+Foldable Fertilizer - GreenThumb,4,1,50.13
+Deluxe Seeds - PlantPal,69,50,19.31
+Compact Planter - NatureCare,19,18,unknown
+Heavy-duty Sprinkler - EarthMate,185,145,unknown
+Heavy-duty Watering Can - PlantPal,139,70,85.36
+Compact Gloves - GardenPro,171,65,25.85
+Basic Watering Can - YardKing,158,95,unknown
+Foldable Seeds - GrowWell,161,66,91.81
+Foldable Leaf Blower - NatureCare,128,33,unknown
+Large Shovel - GreenThumb,144,107,6.12
+Compact Hose - GrowWell,86,74,30.43
+Heavy-duty Wheelbarrow - GreenThumb,116,67,21.06
+Large Gloves - LeafLover,144,25,50.91
+Heavy-duty Hose - GrowWell,99,85,unknown
+Small Lawn Mower - EarthMate,173,23,unknown
+Deluxe Wheelbarrow - BloomMaster,193,48,42.56
+Large Seeds - EcoGrow,75,30,21.43
+Deluxe Seeds - YardKing,186,74,39.24
+Basic Sprayer - EcoGrow,83,22,93.28
+Heavy-duty Fertilizer - GreenThumb,38,35,57.39
+Lightweight Rake - GreenThumb,25,24,34.08
+Large Planter - GardenPro,169,22,unknown
+Compact Pruner - BloomMaster,74,25,unknown
+Large Watering Can - GreenThumb,104,94,unknown
+Foldable Pot - NatureCare,33,30,unknown
+Large Sprinkler - YardKing,159,38,93.31
+Premium Shovel - EcoGrow,38,7,unknown
+Lightweight Tool Set - EarthMate,52,38,59.53
+Deluxe Hedge Trimmer - EarthMate,86,75,66.01
+Compact Watering Can - PlantPal,33,14,unknown
+Eco-friendly Mulch - EarthMate,46,35,63.58
+Large Soil - BloomMaster,13,7,30.24
+Large Tool Set - GreenThumb,90,67,unknown
+Basic Shovel - EcoGrow,189,73,unknown
+Small Pruner - GardenPro,44,33,62.05
+Basic Pot - GardenPro,21,12,66.08
+Large Hose - PlantPal,102,98,unknown
+Deluxe Trowel - EcoGrow,37,36,unknown
+Deluxe Fertilizer - YardKing,4,2,24.68
+Large Watering Can - GrowWell,109,66,45.08
+Premium Sprinkler - GrowWell,179,170,13.85
+Heavy-duty Tool Set - GreenThumb,13,8,unknown
+Compact Mulch - PlantPal,64,46,unknown
+Small Sprayer - LeafLover,109,34,unknown
+Small Gloves - GreenThumb,149,144,unknown
+Foldable Shovel - BloomMaster,101,52,unknown
+Small Soil - LeafLover,151,104,59.52
+Basic Watering Can - PlantPal,78,14,89.99
+Heavy-duty Planter - YardKing,9,8,68.2
+Eco-friendly Trowel - BloomMaster,24,14,unknown
+Basic Sprayer - GrowWell,33,16,1.36
+Foldable Wheelbarrow - EcoGrow,108,93,57.68
+Deluxe Tool Set - PlantPal,84,47,unknown
+Basic Leaf Blower - EarthMate,149,76,20.91
+Deluxe Pruner - BloomMaster,62,46,5.49
+Basic Pruner - EcoGrow,63,62,unknown
+Small Sprinkler - GardenPro,27,0,unknown
+Small Sprinkler - GreenThumb,138,54,38.75
+Small Gloves - GreenThumb,107,46,unknown
+Heavy-duty Hedge Trimmer - GardenPro,136,93,63.68
+Eco-friendly Hedge Trimmer - EarthMate,194,18,99.27
+Heavy-duty Trowel - NatureCare,190,147,60.87
+Compact Fertilizer - EcoGrow,171,153,94.74
+Basic Sprayer - EarthMate,54,19,unknown
+Premium Lawn Mower - PlantPal,146,27,unknown
+Foldable Mulch - EarthMate,173,60,97.8
+Compact Hose - NatureCare,184,178,97.87
+Lightweight Gloves - NatureCare,55,15,45.06
+Deluxe Mulch - GrowWell,123,37,unknown
+Basic Leaf Blower - PlantPal,16,1,unknown
+Lightweight Hose - YardKing,117,13,unknown
+Lightweight Wheelbarrow - GardenPro,76,0,unknown
+Lightweight Hedge Trimmer - GreenThumb,151,11,87.49
+Deluxe Watering Can - PlantPal,93,5,unknown
+Large Planter - NatureCare,179,25,35.45
+Small Pot - PlantPal,115,107,26.91
+Small Wheelbarrow - EcoGrow,106,11,unknown
+Deluxe Tool Set - BloomMaster,148,19,51.15
+Heavy-duty Sprinkler - PlantPal,178,133,unknown
+Deluxe Watering Can - PlantPal,152,106,87.66
+Lightweight Hedge Trimmer - BloomMaster,178,46,unknown
+Basic Sprayer - EarthMate,130,14,94.3
+Heavy-duty Sprinkler - NatureCare,78,47,unknown
+Lightweight Leaf Blower - GrowWell,71,21,32.35
+Small Lawn Mower - BloomMaster,53,25,7.47
+Basic Rake - PlantPal,20,3,58.08
+Premium Trowel - LeafLover,72,25,26.33
+Large Pot - BloomMaster,24,0,54.54
+Premium Seeds - GreenThumb,167,140,23.54
+Lightweight Shovel - PlantPal,119,93,unknown
+Large Soil - LeafLover,71,50,63.24
+Deluxe Sprayer - LeafLover,87,46,unknown
+Lightweight Leaf Blower - GardenPro,12,1,22.26
+Basic Hedge Trimmer - GardenPro,86,63,unknown
+Heavy-duty Hose - LeafLover,64,35,unknown
+Premium Shovel - GrowWell,153,80,unknown
+Compact Shovel - GreenThumb,92,91,85.32
+Premium Wheelbarrow - GrowWell,146,104,unknown
+Heavy-duty Shovel - EcoGrow,92,22,94.16
+Heavy-duty Rake - GreenThumb,33,5,50.18
+Compact Seeds - EcoGrow,128,78,24.19
+Premium Seeds - LeafLover,151,44,unknown
+Foldable Pot - LeafLover,44,39,unknown
+Eco-friendly Trowel - BloomMaster,23,9,72.89
+Deluxe Sprayer - LeafLover,157,32,unknown
+Large Shovel - EarthMate,150,45,73.8
+Compact Tool Set - BloomMaster,131,87,35.0
+Lightweight Sprinkler - LeafLover,189,96,36.48
+Foldable Shovel - LeafLover,139,78,unknown
+Eco-friendly Soil - BloomMaster,84,54,unknown
+Compact Tool Set - GardenPro,8,5,86.96
+Premium Shovel - PlantPal,124,66,84.61
+Compact Mulch - EcoGrow,86,7,62.72
+Small Watering Can - EcoGrow,184,165,unknown
+Small Trowel - GrowWell,160,73,unknown
+Foldable Pruner - BloomMaster,57,8,21.39
+Premium Leaf Blower - YardKing,152,33,unknown
+Eco-friendly Watering Can - YardKing,86,42,21.44
+Deluxe Hedge Trimmer - BloomMaster,121,81,unknown
+Lightweight Leaf Blower - GardenPro,21,4,unknown
+Lightweight Sprinkler - EcoGrow,144,23,unknown
+Basic Hedge Trimmer - PlantPal,4,1,57.86
+Eco-friendly Trowel - PlantPal,17,10,43.92
+Deluxe Tool Set - PlantPal,121,40,99.58
+Premium Trowel - NatureCare,14,1,unknown
+Basic Gloves - NatureCare,97,35,42.19
+Heavy-duty Watering Can - GrowWell,10,2,unknown
+Basic Pot - BloomMaster,169,84,94.08
+Lightweight Sprinkler - GrowWell,162,94,61.97
+Compact Leaf Blower - EarthMate,130,71,unknown
+Eco-friendly Pot - YardKing,89,38,unknown
+Deluxe Lawn Mower - LeafLover,25,14,53.54
+Foldable Fertilizer - EcoGrow,154,17,8.87
+Premium Lawn Mower - YardKing,80,78,73.92
+Compact Pruner - NatureCare,37,15,unknown
+Basic Soil - GardenPro,125,82,79.05
+Premium Hose - YardKing,200,143,unknown
+Small Pruner - EcoGrow,158,41,45.91
+Eco-friendly Lawn Mower - GrowWell,127,114,3.49
+Lightweight Hose - GardenPro,126,3,unknown
+Heavy-duty Watering Can - EarthMate,195,41,unknown
+Large Fertilizer - PlantPal,81,60,16.89
+Lightweight Mulch - YardKing,96,45,27.66
+Heavy-duty Watering Can - LeafLover,197,24,unknown
+Foldable Trowel - LeafLover,178,105,14.55
+Compact Wheelbarrow - GreenThumb,140,38,unknown
+Heavy-duty Trowel - GrowWell,163,17,unknown
+Deluxe Rake - EarthMate,123,46,1.58
+Large Sprayer - NatureCare,106,61,unknown
+Lightweight Lawn Mower - NatureCare,190,92,86.36
+Heavy-duty Trowel - GrowWell,9,6,80.77
+Heavy-duty Watering Can - GardenPro,16,11,39.32
+Eco-friendly Tool Set - PlantPal,63,23,unknown
+Premium Hose - GardenPro,16,0,8.49
+Basic Trowel - PlantPal,121,22,unknown
+Basic Pot - EarthMate,90,83,73.11
+Small Wheelbarrow - GardenPro,27,13,unknown
+Lightweight Lawn Mower - GardenPro,2,1,unknown
+Heavy-duty Hedge Trimmer - GardenPro,164,70,17.66
+Large Hedge Trimmer - GrowWell,57,17,unknown
+Lightweight Sprayer - GrowWell,139,21,52.62
+Compact Shovel - BloomMaster,55,31,unknown
+Small Shovel - NatureCare,10,2,unknown
+Lightweight Soil - PlantPal,9,0,34.49
+Foldable Planter - GrowWell,76,37,unknown
+Heavy-duty Trowel - GrowWell,166,146,53.4
+Small Pot - GrowWell,131,19,77.14
+Deluxe Lawn Mower - EarthMate,75,5,71.62
+Eco-friendly Fertilizer - BloomMaster,18,0,unknown
+Deluxe Rake - EarthMate,104,18,58.54
+Lightweight Shovel - NatureCare,47,39,80.76
+Heavy-duty Tool Set - LeafLover,156,139,unknown
+Small Rake - EcoGrow,148,38,unknown
+Eco-friendly Wheelbarrow - GardenPro,180,122,52.67
+Large Leaf Blower - GreenThumb,74,45,77.2
+Premium Planter - GreenThumb,71,29,18.67
+Premium Mulch - GrowWell,29,14,40.33
+Heavy-duty Shovel - EarthMate,175,158,unknown
+Deluxe Mulch - LeafLover,140,89,26.38
+Lightweight Watering Can - LeafLover,114,34,unknown
+Eco-friendly Lawn Mower - GardenPro,88,35,69.94
+Large Trowel - EcoGrow,140,24,71.57
+Foldable Tool Set - LeafLover,46,43,22.34
+Large Leaf Blower - NatureCare,167,106,99.33
+Small Leaf Blower - EcoGrow,14,1,80.19
+Premium Leaf Blower - NatureCare,140,50,26.3
+Foldable Hedge Trimmer - YardKing,15,8,69.66
+Deluxe Pruner - BloomMaster,168,125,54.12
+Deluxe Leaf Blower - BloomMaster,8,1,unknown
+Foldable Watering Can - BloomMaster,187,166,unknown
+Eco-friendly Gloves - EcoGrow,93,55,unknown
+Compact Leaf Blower - GreenThumb,74,2,88.49
+Small Fertilizer - LeafLover,33,25,unknown
+Eco-friendly Fertilizer - LeafLover,182,20,16.66
+Heavy-duty Seeds - NatureCare,90,84,83.2
+Small Watering Can - EarthMate,48,32,unknown
+Foldable Leaf Blower - GrowWell,185,19,unknown
+Basic Hedge Trimmer - PlantPal,185,3,unknown
+Deluxe Seeds - PlantPal,22,8,unknown
+Large Lawn Mower - PlantPal,116,73,82.84
+Lightweight Gloves - EcoGrow,157,52,25.17
+Premium Pruner - GreenThumb,116,35,unknown
+Premium Gloves - GardenPro,37,22,unknown
+Small Gloves - PlantPal,11,3,unknown
+Eco-friendly Lawn Mower - LeafLover,101,48,21.55
+Small Hose - GreenThumb,163,129,unknown
+Basic Hose - GardenPro,57,18,unknown
+Lightweight Shovel - GrowWell,89,50,unknown
+Heavy-duty Fertilizer - GrowWell,146,48,18.93
+Compact Trowel - EarthMate,173,92,19.28
+Small Gloves - GrowWell,138,109,unknown
+Eco-friendly Sprayer - GrowWell,122,69,unknown
+Compact Trowel - YardKing,46,3,4.25
+Foldable Hedge Trimmer - GreenThumb,183,95,unknown
+Foldable Pot - EcoGrow,56,26,unknown
+Lightweight Trowel - BloomMaster,89,85,78.8
+Small Pot - GardenPro,10,5,unknown
+Small Tool Set - GardenPro,49,17,80.43
+Heavy-duty Trowel - LeafLover,37,10,unknown
+Premium Planter - EcoGrow,32,14,60.13
+Compact Fertilizer - YardKing,17,4,97.14
+Small Sprayer - GardenPro,185,22,unknown
+Deluxe Hose - EarthMate,193,71,31.97
+Basic Pot - PlantPal,90,36,35.87
+Compact Pruner - GardenPro,59,51,unknown
+Small Trowel - GardenPro,113,7,unknown
+Compact Sprinkler - PlantPal,166,90,unknown
+Compact Seeds - LeafLover,170,59,unknown
+Large Seeds - BloomMaster,159,151,24.23
+Compact Hose - YardKing,190,64,unknown
+Deluxe Wheelbarrow - GardenPro,109,80,65.06
+Premium Gloves - GardenPro,14,5,64.79
+Eco-friendly Hedge Trimmer - YardKing,133,94,22.78
+Heavy-duty Watering Can - EarthMate,97,51,unknown
+Premium Tool Set - BloomMaster,116,57,27.16
+Lightweight Tool Set - GreenThumb,82,78,46.63
+Deluxe Mulch - YardKing,43,18,unknown
+Basic Wheelbarrow - LeafLover,67,2,unknown
+Large Hedge Trimmer - GrowWell,40,11,69.58
+Compact Sprinkler - BloomMaster,93,5,unknown
+Lightweight Trowel - GardenPro,98,22,unknown
+Basic Rake - EcoGrow,65,5,56.95
+Heavy-duty Lawn Mower - GardenPro,180,35,unknown
+Lightweight Soil - NatureCare,149,56,unknown
+Eco-friendly Pot - GreenThumb,80,24,unknown
+Deluxe Hedge Trimmer - GardenPro,8,1,unknown
+Basic Tool Set - LeafLover,16,4,unknown
+Deluxe Trowel - NatureCare,27,9,56.95
+Foldable Sprinkler - LeafLover,53,42,85.37
+Premium Trowel - EcoGrow,175,3,52.33
+Compact Watering Can - GardenPro,93,18,unknown
+Small Sprayer - YardKing,124,82,17.24
+Lightweight Hedge Trimmer - BloomMaster,146,91,46.11
+Small Leaf Blower - GardenPro,144,113,78.12
+Lightweight Tool Set - EcoGrow,184,105,unknown
+Compact Trowel - YardKing,30,17,42.76
+Basic Fertilizer - NatureCare,39,31,unknown
+Small Planter - EcoGrow,192,65,unknown
+Foldable Fertilizer - GreenThumb,129,93,unknown
+Deluxe Trowel - BloomMaster,200,126,unknown
+Deluxe Soil - PlantPal,86,46,67.71
+Lightweight Hose - EarthMate,152,81,unknown
+Lightweight Sprinkler - EarthMate,97,32,87.02
+Premium Hedge Trimmer - LeafLover,83,50,unknown
+Eco-friendly Hose - BloomMaster,155,116,55.76
+Heavy-duty Hedge Trimmer - NatureCare,136,11,60.81
+Compact Sprinkler - BloomMaster,199,60,unknown
+Eco-friendly Leaf Blower - NatureCare,65,55,unknown
+Lightweight Watering Can - NatureCare,93,16,95.5
+Eco-friendly Trowel - BloomMaster,81,67,63.45
+Lightweight Pot - NatureCare,80,42,14.4
+Large Pruner - GardenPro,184,87,unknown
+Eco-friendly Mulch - YardKing,170,34,unknown
+Small Soil - GardenPro,178,165,12.14
+Large Mulch - GreenThumb,165,125,unknown
+Small Rake - BloomMaster,53,43,16.54
+Deluxe Pot - BloomMaster,124,69,unknown
+Premium Sprayer - PlantPal,124,72,35.7
+Premium Shovel - GardenPro,70,30,unknown
+Lightweight Gloves - EcoGrow,178,111,83.78
+Heavy-duty Mulch - PlantPal,43,1,43.55
+Premium Sprayer - BloomMaster,26,15,unknown
+Basic Sprinkler - GrowWell,52,4,unknown
+Lightweight Pruner - NatureCare,49,40,unknown
+Compact Gloves - GreenThumb,188,176,12.48
+Small Wheelbarrow - GreenThumb,115,51,unknown
+Compact Hose - NatureCare,65,20,52.66
+Premium Soil - EarthMate,114,86,unknown
+Foldable Gloves - GrowWell,104,64,76.31
+Small Hedge Trimmer - GreenThumb,38,23,4.3
+Basic Sprinkler - GardenPro,128,6,38.2
+Eco-friendly Rake - GrowWell,55,39,unknown
+Lightweight Hedge Trimmer - GreenThumb,17,14,unknown
+Eco-friendly Sprayer - GardenPro,164,138,unknown
+Compact Gloves - YardKing,99,98,62.34
+Basic Hose - EarthMate,124,44,19.65
+Compact Tool Set - GrowWell,54,29,unknown
+Premium Sprinkler - LeafLover,169,123,unknown
+Large Fertilizer - EarthMate,40,15,unknown
+Premium Pruner - GrowWell,7,3,81.32
+Small Fertilizer - GreenThumb,115,39,69.22
+Deluxe Pot - GrowWell,152,59,unknown
+Small Sprinkler - LeafLover,159,118,82.66
+Foldable Trowel - LeafLover,46,6,unknown
+Heavy-duty Gloves - EarthMate,84,79,14.71
+Heavy-duty Gloves - EcoGrow,93,83,30.38
+Eco-friendly Leaf Blower - PlantPal,185,19,88.79
+Large Pruner - GreenThumb,142,10,unknown
+Foldable Rake - NatureCare,3,1,17.13
+Eco-friendly Trowel - LeafLover,167,17,unknown
+Small Seeds - LeafLover,187,70,unknown
+Compact Wheelbarrow - GrowWell,20,1,unknown
+Large Shovel - NatureCare,22,14,unknown
+Compact Planter - GrowWell,75,12,18.48
+Basic Hedge Trimmer - YardKing,126,79,41.96
+Basic Lawn Mower - GreenThumb,48,12,9.96
+Lightweight Planter - GardenPro,4,1,58.26
+Heavy-duty Pot - GardenPro,181,161,unknown
+Basic Wheelbarrow - GardenPro,77,14,unknown
+Deluxe Pot - BloomMaster,98,97,11.96
+Foldable Wheelbarrow - GrowWell,93,51,66.61
+Foldable Planter - GrowWell,115,22,unknown
+Deluxe Mulch - EarthMate,56,25,unknown
+Eco-friendly Hose - EcoGrow,98,54,unknown
+Large Planter - LeafLover,170,146,unknown
+Lightweight Lawn Mower - GardenPro,75,41,unknown
+Lightweight Mulch - EarthMate,182,28,unknown
+Large Rake - GreenThumb,92,49,unknown
+Lightweight Rake - PlantPal,70,30,19.83
+Eco-friendly Lawn Mower - EarthMate,57,16,61.83
+Foldable Fertilizer - EcoGrow,101,37,unknown
+Eco-friendly Pot - PlantPal,146,14,unknown
+Basic Pot - EcoGrow,1,0,47.66
+Deluxe Mulch - BloomMaster,166,127,unknown
+Deluxe Mulch - NatureCare,136,89,unknown
+Large Tool Set - EarthMate,199,169,unknown
+Eco-friendly Gloves - YardKing,64,55,unknown
+Foldable Rake - GrowWell,11,6,unknown
+Compact Leaf Blower - YardKing,3,1,unknown
+Compact Pot - PlantPal,89,20,28.42
+Lightweight Hose - GreenThumb,181,117,unknown
+Basic Hedge Trimmer - NatureCare,47,40,unknown
+Foldable Pruner - PlantPal,15,2,75.82
+Small Sprayer - GardenPro,34,33,4.37
+Basic Planter - NatureCare,12,1,unknown
+Compact Trowel - PlantPal,35,24,5.24
+Lightweight Soil - GrowWell,140,43,unknown
+Deluxe Shovel - EcoGrow,123,38,92.56
+Eco-friendly Pot - BloomMaster,23,16,78.42
+Deluxe Hedge Trimmer - PlantPal,191,178,24.19
+Deluxe Mulch - EarthMate,57,14,77.09
+Small Trowel - PlantPal,174,9,77.75
+Basic Pruner - PlantPal,120,99,unknown
+Heavy-duty Sprinkler - GardenPro,87,79,unknown
+Premium Rake - EarthMate,78,32,unknown
+Deluxe Mulch - BloomMaster,40,9,96.26
+Premium Pruner - BloomMaster,67,5,unknown
+Foldable Tool Set - YardKing,63,38,0.29
+Compact Mulch - PlantPal,42,18,21.67
+Basic Trowel - LeafLover,66,38,32.93
+Deluxe Wheelbarrow - NatureCare,115,97,unknown
+Lightweight Rake - EarthMate,187,131,unknown
+Heavy-duty Planter - GrowWell,200,55,unknown
+Foldable Sprayer - NatureCare,169,49,unknown
+Foldable Hedge Trimmer - NatureCare,89,39,unknown
+Lightweight Pruner - GardenPro,1,0,unknown
+Small Pot - GardenPro,49,32,unknown
+Eco-friendly Sprinkler - YardKing,85,52,unknown
+Premium Seeds - GreenThumb,194,7,unknown
+Basic Seeds - EarthMate,27,12,unknown
+Heavy-duty Soil - EcoGrow,120,55,7.51
+Compact Sprinkler - GreenThumb,196,23,47.65
+Small Seeds - EarthMate,144,123,unknown
+Deluxe Mulch - GardenPro,66,51,5.46
+Deluxe Rake - GardenPro,29,2,unknown
+Basic Pot - PlantPal,54,32,unknown
+Eco-friendly Hedge Trimmer - LeafLover,79,0,19.4
+Lightweight Lawn Mower - EcoGrow,13,11,unknown
+Premium Sprinkler - GreenThumb,69,47,18.51
+Small Pruner - YardKing,158,108,4.72
+Eco-friendly Fertilizer - PlantPal,90,17,unknown
+Basic Rake - LeafLover,49,48,53.43
+Foldable Watering Can - LeafLover,161,59,74.21
+Small Pot - BloomMaster,46,24,unknown
+Small Seeds - NatureCare,128,70,unknown
+Large Gloves - YardKing,105,94,unknown
+Lightweight Tool Set - EcoGrow,85,83,unknown
+Premium Trowel - GrowWell,154,34,77.6
+Large Planter - GardenPro,128,105,unknown
+Lightweight Lawn Mower - YardKing,177,67,unknown
+Heavy-duty Watering Can - NatureCare,76,43,unknown
+Lightweight Tool Set - LeafLover,40,18,unknown
+Premium Shovel - GreenThumb,185,161,unknown
+Large Watering Can - LeafLover,2,1,52.04
+Compact Watering Can - YardKing,28,8,unknown
+Compact Watering Can - YardKing,140,50,unknown
+Compact Sprayer - EarthMate,171,153,unknown
+Premium Watering Can - EarthMate,9,1,66.5
+Lightweight Shovel - PlantPal,113,39,32.14
+Compact Fertilizer - EcoGrow,146,69,33.73
+Lightweight Sprayer - LeafLover,34,1,68.26
+Lightweight Mulch - NatureCare,137,62,72.5
+Large Tool Set - NatureCare,137,69,unknown
+Small Hedge Trimmer - GardenPro,65,1,unknown
+Small Wheelbarrow - GrowWell,118,17,86.98
+Lightweight Fertilizer - EarthMate,55,14,unknown
+Heavy-duty Lawn Mower - EcoGrow,135,3,unknown
+Basic Soil - EarthMate,176,148,6.27
+Small Lawn Mower - EarthMate,39,6,unknown
+Large Rake - NatureCare,56,2,86.59
+Large Pot - LeafLover,35,24,unknown
+Heavy-duty Shovel - EcoGrow,99,51,75.09
+Deluxe Wheelbarrow - GrowWell,146,50,91.2
+Small Fertilizer - YardKing,15,10,8.05
+Premium Hose - GrowWell,123,32,25.12
+Eco-friendly Wheelbarrow - PlantPal,58,4,unknown
+Basic Pot - YardKing,43,9,unknown
+Compact Soil - NatureCare,76,52,8.6
+Lightweight Shovel - GrowWell,190,92,unknown
+Basic Seeds - YardKing,20,4,unknown
+Lightweight Fertilizer - NatureCare,108,57,88.16
+Small Rake - GreenThumb,186,81,79.94
+Small Watering Can - EarthMate,192,170,unknown
+Lightweight Watering Can - BloomMaster,80,75,90.41
+Eco-friendly Hedge Trimmer - EcoGrow,75,66,69.13
+Deluxe Hedge Trimmer - GreenThumb,185,158,86.94
+Foldable Watering Can - GreenThumb,99,54,83.58
+Foldable Wheelbarrow - PlantPal,117,36,unknown
+Lightweight Leaf Blower - GardenPro,58,16,unknown
+Small Mulch - EcoGrow,139,90,83.51
+Premium Soil - BloomMaster,199,160,unknown
+Deluxe Rake - EarthMate,118,90,unknown
+Eco-friendly Lawn Mower - NatureCare,138,31,unknown
+Lightweight Planter - LeafLover,9,3,37.96
+Eco-friendly Mulch - EarthMate,39,37,43.02
+Foldable Soil - GrowWell,176,56,58.11
+Foldable Gloves - NatureCare,23,19,unknown
+Heavy-duty Fertilizer - NatureCare,93,71,unknown
+Heavy-duty Watering Can - EarthMate,174,63,unknown
+Compact Mulch - GreenThumb,65,22,14.11
+Compact Pruner - BloomMaster,173,61,23.83
+Compact Hedge Trimmer - GrowWell,49,24,0.54
+Foldable Trowel - PlantPal,26,23,91.63
+Basic Fertilizer - PlantPal,144,50,82.02
+Deluxe Leaf Blower - BloomMaster,111,59,unknown
+Compact Sprayer - BloomMaster,151,21,6.76
+Small Fertilizer - EcoGrow,40,39,unknown
+Lightweight Tool Set - YardKing,187,55,0.89
+Small Lawn Mower - GrowWell,37,22,unknown
+Foldable Sprinkler - GrowWell,131,39,unknown
+Eco-friendly Seeds - LeafLover,174,161,49.01
+Foldable Sprayer - EarthMate,128,47,unknown
+Premium Watering Can - LeafLover,178,150,unknown
+Premium Soil - EcoGrow,66,46,49.55
+Heavy-duty Shovel - GreenThumb,4,3,unknown
+Premium Trowel - GardenPro,169,94,26.19
+Premium Wheelbarrow - PlantPal,74,73,36.85
+Large Leaf Blower - YardKing,10,2,unknown
+Premium Gloves - BloomMaster,66,3,71.2
+Premium Soil - LeafLover,153,110,unknown
+Basic Seeds - EarthMate,80,61,94.96
+Large Hedge Trimmer - NatureCare,134,113,unknown
+Large Soil - BloomMaster,18,0,unknown
+Lightweight Tool Set - EcoGrow,52,4,95.85
+Small Hose - EcoGrow,98,75,24.28
+Lightweight Watering Can - LeafLover,177,100,55.6
+Premium Pruner - GrowWell,5,0,7.16
+Foldable Pot - PlantPal,22,5,unknown
+Small Watering Can - BloomMaster,8,6,22.32
+Heavy-duty Shovel - YardKing,109,81,unknown
+Deluxe Planter - GardenPro,97,77,unknown
+Small Gloves - EcoGrow,110,25,unknown
+Compact Pruner - EcoGrow,2,0,28.29
+Eco-friendly Watering Can - LeafLover,26,18,76.71
+Deluxe Planter - YardKing,172,50,unknown
+Foldable Gloves - NatureCare,190,165,69.0
+Small Tool Set - LeafLover,198,2,39.92
+Heavy-duty Gloves - GrowWell,86,23,75.78
+Small Hose - YardKing,84,22,unknown
+Small Leaf Blower - YardKing,79,5,75.05
+Foldable Fertilizer - YardKing,9,7,unknown
+Heavy-duty Wheelbarrow - GrowWell,4,0,unknown
+Large Rake - EcoGrow,84,43,13.31
+Deluxe Tool Set - NatureCare,91,26,6.29
+Foldable Sprayer - PlantPal,104,74,unknown
+Basic Pruner - EcoGrow,56,7,unknown
+Compact Tool Set - YardKing,8,5,64.14
+Eco-friendly Sprayer - GreenThumb,113,18,unknown
+Premium Fertilizer - BloomMaster,126,9,unknown
+Premium Hose - GrowWell,136,34,88.19
+Deluxe Sprayer - BloomMaster,125,30,12.02
+Small Pot - NatureCare,175,104,unknown
+Eco-friendly Planter - BloomMaster,40,31,unknown
+Foldable Fertilizer - GreenThumb,83,39,41.56
+Eco-friendly Hose - GrowWell,131,118,unknown
+Small Tool Set - EcoGrow,21,17,28.71
+Compact Watering Can - GrowWell,90,10,0.77
+Small Trowel - YardKing,67,57,unknown
+Lightweight Mulch - NatureCare,22,12,54.3
+Basic Fertilizer - GreenThumb,70,12,91.22
+Large Sprayer - EcoGrow,149,134,30.87
+Heavy-duty Lawn Mower - EcoGrow,151,34,unknown
+Basic Gloves - EarthMate,103,40,unknown
+Premium Shovel - YardKing,148,134,unknown
+Eco-friendly Leaf Blower - GardenPro,50,17,unknown
+Large Hedge Trimmer - LeafLover,197,188,32.8
+Large Fertilizer - YardKing,50,38,unknown
+Heavy-duty Hose - GrowWell,111,91,unknown
+Foldable Sprinkler - GrowWell,88,74,43.82
+Small Seeds - EcoGrow,60,29,96.94
+Premium Pot - LeafLover,80,1,unknown
+Deluxe Pruner - GardenPro,80,53,unknown
+Small Hedge Trimmer - LeafLover,19,0,31.02
+Deluxe Hose - GreenThumb,98,96,unknown
+Foldable Fertilizer - YardKing,8,7,unknown
+Large Sprinkler - YardKing,112,22,3.09
+Large Hedge Trimmer - EcoGrow,170,79,50.49
+Foldable Planter - GreenThumb,142,4,16.09
+Basic Shovel - GreenThumb,113,111,unknown
+Small Pruner - GrowWell,96,66,83.8
+Foldable Wheelbarrow - GrowWell,163,28,1.24
+Large Soil - LeafLover,118,37,72.15
+Small Wheelbarrow - GreenThumb,87,16,unknown
+Compact Seeds - BloomMaster,139,64,unknown
+Small Pot - YardKing,11,8,unknown
+Basic Seeds - BloomMaster,199,189,69.02
+Lightweight Gloves - GrowWell,110,81,5.61
+Small Hose - EcoGrow,174,51,82.57
+Large Tool Set - LeafLover,39,13,unknown
+Deluxe Soil - BloomMaster,67,45,unknown
+Heavy-duty Planter - YardKing,190,187,unknown
+Foldable Pruner - BloomMaster,128,6,91.57
+Premium Hedge Trimmer - GardenPro,180,46,61.85
+Lightweight Planter - GrowWell,125,32,unknown
+Small Lawn Mower - PlantPal,197,163,10.43
+Eco-friendly Pot - PlantPal,87,39,50.47
+Compact Fertilizer - YardKing,178,114,48.81
+Lightweight Tool Set - EarthMate,12,7,58.67
+Deluxe Rake - GrowWell,55,3,unknown
+Deluxe Wheelbarrow - GrowWell,31,25,30.34
+Basic Trowel - BloomMaster,195,123,unknown
+Basic Seeds - LeafLover,75,72,unknown
+Lightweight Mulch - YardKing,138,104,unknown
+Deluxe Mulch - GrowWell,181,29,80.44
+Premium Sprinkler - LeafLover,31,8,unknown
+Heavy-duty Watering Can - NatureCare,152,52,96.56
+Lightweight Gloves - EarthMate,86,84,59.15
+Eco-friendly Pruner - GardenPro,196,43,24.62
+Deluxe Pot - LeafLover,141,71,39.88
+Premium Lawn Mower - YardKing,179,84,82.69
+Eco-friendly Sprayer - GreenThumb,71,35,unknown
+Deluxe Mulch - GardenPro,47,27,47.21
+Compact Hose - GrowWell,18,7,48.58
+Basic Soil - PlantPal,79,34,unknown
+Compact Soil - GrowWell,83,51,unknown
+Lightweight Pruner - BloomMaster,81,26,unknown
+Heavy-duty Seeds - EcoGrow,6,4,unknown
+Heavy-duty Mulch - PlantPal,20,4,61.49
+Heavy-duty Wheelbarrow - LeafLover,141,3,unknown
+Deluxe Watering Can - NatureCare,64,27,unknown
+Compact Mulch - YardKing,194,157,50.79
+Large Hose - EcoGrow,190,137,71.74
+Lightweight Tool Set - EcoGrow,173,76,18.39
+Large Wheelbarrow - YardKing,79,43,unknown
+Compact Pot - NatureCare,178,37,unknown
+Foldable Sprayer - GardenPro,58,45,unknown
+Small Pruner - EcoGrow,56,11,69.36
+Lightweight Soil - YardKing,114,33,84.85
+Foldable Seeds - LeafLover,96,19,50.22
+Compact Hose - GreenThumb,11,9,1.1
+Basic Mulch - LeafLover,186,79,unknown
+Small Sprayer - BloomMaster,193,38,unknown
+Heavy-duty Rake - GreenThumb,77,12,unknown
+Large Gloves - GreenThumb,27,12,37.54
+Compact Rake - NatureCare,95,27,64.67
+Deluxe Hedge Trimmer - GreenThumb,13,6,88.19
+Basic Sprinkler - YardKing,117,33,unknown
+Eco-friendly Wheelbarrow - GrowWell,189,46,unknown
+Eco-friendly Fertilizer - EcoGrow,4,1,unknown
+Eco-friendly Gloves - GreenThumb,185,81,47.79
+Large Fertilizer - GrowWell,150,123,unknown
+Small Pruner - LeafLover,191,112,71.29
+Eco-friendly Mulch - GrowWell,5,1,82.97
+Lightweight Pot - EarthMate,188,184,69.57
+Premium Hedge Trimmer - YardKing,199,150,unknown
+Heavy-duty Pot - GrowWell,64,31,21.95
+Small Wheelbarrow - EarthMate,26,25,unknown
+Compact Hose - YardKing,25,3,unknown
+Heavy-duty Fertilizer - EcoGrow,94,29,unknown
+Heavy-duty Lawn Mower - NatureCare,130,6,unknown
+Lightweight Watering Can - LeafLover,116,86,unknown
+Deluxe Wheelbarrow - GrowWell,196,175,unknown
+Heavy-duty Trowel - GrowWell,185,147,3.04
+Compact Lawn Mower - GardenPro,21,8,unknown
+Lightweight Planter - EcoGrow,184,166,73.78
+Eco-friendly Pot - GreenThumb,19,5,26.39
+Large Leaf Blower - LeafLover,9,1,unknown
+Foldable Trowel - BloomMaster,110,53,unknown
+Small Hose - PlantPal,21,14,34.17
+Lightweight Sprayer - GardenPro,190,11,90.43
+Large Fertilizer - GreenThumb,172,29,unknown
+Large Hose - NatureCare,192,121,88.62
+Basic Hose - LeafLover,72,30,81.44
+Heavy-duty Tool Set - LeafLover,184,146,38.64
+Small Watering Can - YardKing,42,16,unknown
+Foldable Tool Set - PlantPal,143,84,23.46
+Premium Pot - GrowWell,100,8,unknown
+Small Hedge Trimmer - GreenThumb,94,23,unknown
+Lightweight Tool Set - GreenThumb,46,17,unknown
+Deluxe Tool Set - GreenThumb,43,28,unknown
+Foldable Watering Can - NatureCare,10,9,19.97
+Compact Planter - NatureCare,155,91,unknown
+Deluxe Fertilizer - LeafLover,154,141,unknown
+Lightweight Leaf Blower - NatureCare,57,8,unknown
+Deluxe Mulch - PlantPal,194,124,unknown
+Heavy-duty Planter - LeafLover,86,27,unknown
+Small Wheelbarrow - NatureCare,169,88,58.17
+Deluxe Trowel - LeafLover,151,4,unknown
+Deluxe Pot - GardenPro,149,45,unknown
+Large Pot - PlantPal,29,19,unknown
+Eco-friendly Wheelbarrow - EcoGrow,83,44,4.81
+Foldable Pot - GreenThumb,192,184,unknown
+Lightweight Hedge Trimmer - LeafLover,24,8,unknown
+Compact Sprinkler - LeafLover,34,17,unknown
+Compact Seeds - LeafLover,110,22,unknown
+Foldable Planter - GrowWell,146,93,unknown
+Basic Hose - EarthMate,131,45,unknown
+Eco-friendly Shovel - NatureCare,149,140,72.45
+Eco-friendly Soil - YardKing,198,127,unknown
+Heavy-duty Lawn Mower - BloomMaster,89,63,59.24
+Lightweight Leaf Blower - NatureCare,116,25,unknown
+Large Rake - NatureCare,173,116,81.47
+Compact Lawn Mower - YardKing,104,92,unknown
+Large Sprayer - PlantPal,53,15,unknown
+Premium Planter - PlantPal,70,7,unknown
+Large Hose - BloomMaster,13,12,10.86
+Deluxe Shovel - GreenThumb,67,14,34.12
+Compact Pot - NatureCare,114,60,unknown
+Deluxe Mulch - NatureCare,151,97,unknown
+Lightweight Planter - EcoGrow,81,19,unknown
+Foldable Hedge Trimmer - EarthMate,52,46,66.82
+Compact Gloves - BloomMaster,18,13,51.64
+Eco-friendly Lawn Mower - NatureCare,172,19,70.62
+Premium Wheelbarrow - EcoGrow,180,33,unknown

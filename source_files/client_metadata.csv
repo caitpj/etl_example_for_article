@@ -1,0 +1,4 @@
+client_name,product_field,stock_field_calc,sold_field_calc,revenue_field_calc
+Client 1,'item_name','stock','sold','revenue'
+Client 2,'Item','Stock warehouse 1' + 'Stock warehouse 2' + 'Stock warehouse 3','Sold warehouse 1' + 'Sold warehouse 2' + 'Sold warehouse 3','Revenue warehouse 1' + 'Revenue warehouse 2' + 'Revenue warehouse 3'
+Client 3,'Product','Stock',('Percentage Sold' / 100) * 'Stock','Revenue per unit' * (('Percentage Sold' / 100) * 'Stock')
